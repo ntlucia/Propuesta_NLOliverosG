@@ -7,4 +7,4 @@ Presentada a la escuela de física de la Universidad Industrial de Santader en m
 Esta propuesta consta de un proyecto sobre el análisis de la cromósfera de la estrella gigante fría que hace parte de un sistema binario eclipsante
 
 
-Todo el proceso que se lleva a cabo para cumplir esta propuesta, está documentado en el ptoyecto: https://github.com/users/ntlucia/projects/1
+Todo el proceso que se lleva a cabo para cumplir esta propuesta está documentado en el proyecto: https://github.com/users/ntlucia/projects/1
